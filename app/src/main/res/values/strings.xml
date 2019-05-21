@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Meu Semestre</string>
+
+    <!--Register Start-->
+    <string name="register_base_title">Dados Básicos</string>
+    <string name="register_name">Nome</string>
+    <string name="register_educational_institute">Instituição de Ensino</string>
+    <string name="register_course">Curso</string>
+    <string name="register_semester_title">Dados do Semestre</string>
+    <string name="register_semester_subtitle">* Informações necessárias para concluir o semestre</string>
+    <string name="register_semester_total_exams">Avaliações</string>
+    <string name="register_semester_average">Média</string>
+    <string name="register_conclude">Concluir</string>
+    <!--Register End-->
 </resources>
